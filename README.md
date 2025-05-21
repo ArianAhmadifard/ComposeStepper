@@ -11,6 +11,9 @@ A customizable stepper component built with Jetpack Compose for selecting and di
 - Easy to integrate in any Jetpack Compose project
 
 
+## 📸 Screenshots 
+
+<img src="https://github.com/ArianAhmadifard/ComposeStepper/blob/master/2001.jpg" alt="Screenshot 1" width="300"/>
 
 ## 🎨 Customization Parameters
 
